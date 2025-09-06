@@ -1,0 +1,1314 @@
+MIC,Ticker,Company name,Market capital size (in millions)
+XNGS,STNE,"StoneCo Ltd",3718.79
+XNGS,TITN,"Titan Machinery Inc",428.24
+XNYS,THR,"Thermon Group Holdings Inc",901.34
+XNYS,TPH,"Tri Pointe Homes Inc (Delaware)",2756.37
+XNGS,TOWN,"TowneBank",2518.52
+XNGS,TMUS,"T-Mobile US Inc",278070.51
+XNYS,TMHC,"Taylor Morrison Home Corp",5830.36
+XNYS,TNET,"TriNet Group Inc",4005.03
+XNYS,REZI,"Resideo Technologies Inc",3105.21
+XNYS,AGS,"PlayAGS Inc",510.78
+XNGS,TEAM,"Atlassian Corp",36122.54
+XNGS,TREE,"Lendingtree Inc",474.95
+XNGS,TRMB,"Trimble Inc",16977.85
+XNGS,TRMK,"Trustmark Corp",2071.36
+XNGS,TROW,"T Rowe Price Group Inc",20542.27
+XNGS,TRS,"TriMas Corp",1043.73
+XNGS,TWST,"Twist Bioscience Corp",1817.26
+XNGS,TSCO,"Tractor Supply Co",27278.94
+XNGS,TSLA,"Tesla Inc",917006.23
+XNGS,AXNX,"Axonics Inc",3627.22
+XNYS,UMH,"UMH Properties Inc",1408.26
+XNYS,UVE,"Universal Insurance Holdings Inc",772.01
+XNGS,TTWO,"Take-Two Interactive Software Inc",40990.48
+XNGS,TTMI,"TTM Technologies Inc",3263.35
+XNYS,ACA,"Arcosa Inc",4340.73
+XNMS,CRMD,"CorMedix Inc",893.93
+XNGS,WDAY,"Workday Inc",54021.60
+XNGS,UBSI,"United Bankshares Inc",5064.42
+XNGS,UCBI,"United Community Banks Inc",3318.08
+XNYS,IRT,"Independence Realty Trust Inc",4259.56
+XNGS,AXON,"Axon Enterprise Inc",61374.47
+XNGS,UCTT,"Ultra Clean Holdings Inc",922.40
+XNYS,PFE,"Pfizer Inc",131445.65
+XNYS,WSR,"Whitestone REIT",623.98
+XNGS,UFPI,"Ufp Industries Inc",5880.65
+XNCM,UFPT,"UFP Technologies Inc",1880.31
+XNGS,ULTA,"Ulta Beauty Inc",20991.40
+XNYS,BKSY,"Blacksky Technology Inc",383.94
+XNYS,YELP,"Yelp Inc",2349.40
+XNGS,UMBF,"UMB Financial Corp",7731.54
+XNYS,UNFI,"United Natural Foods Inc",1657.15
+XNCM,RKLB,"Rocket Lab USA Inc",12204.89
+XNGS,URBN,"Urban Outfitters Inc",6459.38
+XNGS,AGIO,"Agios Pharmaceuticals Inc",1944.79
+XNMS,ANIP,"ANI Pharmaceuticals Inc",1296.47
+XNGS,VECO,"Veeco Instruments Inc",1216.81
+XNGS,PANW,"Palo Alto Networks Inc",131432.95
+XNGS,AMRK,"A-Mark Precious Metals Inc",508.25
+XNGS,WSFS,"WSFS Financial Corp",2945.02
+XNGS,VICR,"Vicor Corp",1483.03
+XNCM,XPEL,"Xpel Inc",1012.81
+XNGS,ARCB,"ArcBest Corp",1449.60
+XNGS,SWTX,"SpringWorks Therapeutics Inc",3526.33
+XNCM,AXGN,"AxoGen Inc",491.88
+XNYS,SPGI,"S&P Global Inc",158183.59
+XNYS,BANC,"Banc of California Inc",2011.41
+XNCM,BLFS,"BioLife Solutions Inc",1021.25
+XNGS,VRSK,"Verisk Analytics Inc",44845.44
+XNGS,VRNT,"Verint Systems Inc",1129.81
+XNYS,IFF,"International Flavors & Fragrances Inc",19557.73
+XNGS,VRSN,"VeriSign, Inc",26093.87
+XNGS,VRTX,"Vertex Pharmaceuticals Inc",113971.73
+XNYS,NGVT,"Ingevity Corp",1500.17
+XNGS,CDW,"CDW Corp",23154.20
+XNGS,VSEC,"VSE Corp",2725.30
+XNGS,WABC,"Westamerica Bancorp",1249.87
+XNGS,CENTA,"Central Garden & Pet Co",1275.97
+XNGS,ELVN,"Enliven Therapeutics Inc",1048.61
+XNGS,CHEF,"Chefs' Warehouse Inc",2554.92
+XNGS,WERN,"Werner Enterprises Inc",1666.68
+XNGS,FOXA,"Fox Corp",13310.68
+XNGS,FOX,"Fox Corp",11614.14
+XNYS,VTS,"Vitesse Energy Inc",854.52
+XNGS,CNOB,"ConnectOne Bancorp Inc",867.88
+XNMS,WLDN,"Willdan Group Inc",807.18
+XNYS,CUBI,"Customers Bancorp Inc",1602.13
+XNYS,PLYM,"Plymouth Industrial REIT Inc",725.12
+XNGS,WSBC,"WesBanco Inc",2910.35
+XNGS,CZR,"Caesars Entertainment Inc",5330.22
+XNGS,WYNN,"Wynn Resorts Ltd",8703.10
+XNYS,TPB,"Turning Point Brands Inc",1337.56
+XNGS,XRAY,"DENTSPLY SIRONA Inc",3168.76
+XNMS,KRUS,"Kura Sushi USA Inc",835.84
+XNGS,NOVT,"Novanta Inc",4544.20
+XNGS,CRWD,"CrowdStrike Holdings Inc",115386.95
+XNGS,ZBRA,"Zebra Technologies Corp",14957.97
+XNGS,FOXF,"Fox Factory Holding Corp",1099.54
+XNGS,ZION,"Zions Bancorporation NA",7036.18
+XNGS,ZUMZ,"Zumiez Inc",251.64
+XNYS,ABM,"ABM Industries Inc",3189.98
+XNYS,T,"AT&T Inc",199749.92
+XNYS,NUE,"Nucor Corp",27401.62
+XNYS,O,"Realty Income Corp",50418.95
+XNYS,A,"Agilent Technologies Inc",32366.34
+XNYS,AAT,"American Assets Trust Inc",1200.07
+XNGS,GOGO,"Gogo Inc",1464.16
+XNYS,ACN,"Accenture PLC",213945.26
+XNYS,MBC,"Masterbrand Inc",1309.20
+XNGS,ADI,"Analog Devices Inc",108201.96
+XNMS,SPRY,"ARS Pharmaceuticals Inc",1319.99
+XNYS,AESI,"Atlas Energy Solutions Inc",1576.17
+XNGS,IBTX,"Independent Bank Group Inc",2508.95
+XNYS,AIN,"Albany International Corp",2008.90
+XNYS,AIT,"Applied Industrial Technologies Inc",8726.33
+XNYS,AIZ,"Assurant Inc",10245.31
+XNGS,ITCI,"Intra-Cellular Therapies Inc",14048.07
+XNYS,AJG,"Arthur J. Gallagher & Co.",84026.41
+XNYS,ALB,"Albemarle Corp",6899.64
+XNYS,ALL,"Allstate Corp",54724.54
+XNGS,LKQ,"LKQ Corp",10060.01
+XNYS,ATMU,"Atmus Filtration Technologies Inc",2977.55
+XNYS,AME,"AMETEK Inc",40849.42
+XNCM,PLSE,"Pulse Biosciences Inc",1097.91
+XNGS,LGIH,"LGI Homes Inc",1162.97
+XNYS,ANF,"Abercrombie & Fitch Co",3788.22
+XNYS,APD,"Air Products and Chemicals Inc",61471.16
+XNYS,APH,"Amphenol Corp",111912.11
+XNCM,CERE,"Cerevel Therapeutics Holdings Inc",8193.30
+XNYS,CRC,"California Resources Corp",3922.81
+XNYS,OSCR,"Oscar Health Inc",3429.90
+XNGS,UPBD,"Upbound Group Inc",1415.57
+XNGS,APA,"APA Corp (US)",6455.70
+XNYS,GMS,"GMS Inc",2996.65
+XNYS,AZZ,"AZZ Inc",2804.20
+XNYS,NCLH,"Norwegian Cruise Line Holdings Ltd",8645.71
+XNYS,BA,"Boeing Co",157602.22
+XNYS,WHD,"Cactus Inc",3075.27
+XNGS,ICHR,"Ichor Holdings Ltd",599.49
+XNMS,NMIH,"NMI Holdings Inc",3071.01
+XNGS,WTW,"Willis Towers Watson PLC",30505.42
+XNGS,VCTR,"Victory Capital Holdings Inc",4251.35
+XNYS,AUB,"Atlantic Union Bankshares Corp",4272.63
+XNYS,BAX,"Baxter International Inc",15472.21
+XNMS,PAHC,"Phibro Animal Health Corp",486.58
+XNYS,BNL,"Broadstone Net Lease Inc",3047.97
+XNYS,SAFE,"Safehold Inc",1093.06
+XNYS,BDC,"Belden Inc",4362.82
+XNMS,RPD,"Rapid7 Inc",1488.42
+XNYS,BDX,"Becton Dickinson and Co",49018.47
+XNGS,FWRG,"First Watch Restaurant Group Inc",910.02
+XNYS,BEN,"Franklin Resources Inc",11430.09
+XNGS,QLYS,"Qualys Inc",5074.76
+XNGS,PTC,"PTC Inc",20128.45
+XNYS,WRBY,"Warby Parker Inc",2215.46
+XNYS,BK,"Bank of New York Mellon Corp",63373.17
+XNYS,BKE,"Buckle Inc",2184.49
+XNYS,MGY,"Magnolia Oil & Gas Corp",4135.31
+XNYS,BKU,"BankUnited Inc",2530.13
+XNYS,BLK,"BlackRock Inc",152673.55
+XNGS,RUSHA,"Rush Enterprises Inc",3095.99
+XNYS,ACEL,"Accel Entertainment Inc",941.21
+XNGS,SFM,"Sprouts Farmers Market Inc",16451.99
+XNYS,BR,"Broadridge Financial Solutions Inc",28765.62
+XNYS,BRK.B,"Berkshire Hathaway Inc",654865.48
+XNGS,UPST,"Upstart Holdings Inc",4888.54
+XNCM,SMPL,"Simply Good Foods Co",3367.93
+XNYS,BTU,"Peabody Energy Corp",1602.69
+XNYS,LCII,"LCI Industries",2233.53
+XNYS,EE,"Excelerate Energy Inc",990.94
+XNYS,BXP,"BXP Inc",11369.29
+XNYS,FTV,"Fortive Corp",24389.95
+XNYS,BZH,"Beazer Homes USA Inc",661.83
+XNYS,C,"Citigroup Inc",143199.14
+XNYS,CAH,"Cardinal Health Inc",36784.90
+XNYS,CAT,"Caterpillar Inc",164374.74
+XNCM,VRDN,"Viridian Therapeutics Inc",1161.87
+XNYS,CB,"Chubb Ltd",116819.56
+XNGS,DDOG,"Datadog Inc",38898.89
+XNYS,ATKR,"Atkore Inc",2237.50
+XNGS,TILE,"Interface Inc",1176.90
+XNYS,CBRE,"CBRE Group Inc",38050.10
+XNCM,TGTX,"TG Therapeutics Inc",6239.07
+XNYS,CBU,"Community Financial System Inc",2939.07
+XNYS,PR,"Permian Resources Corp",9228.12
+XNGS,PYPL,"PayPal Holdings Inc",70479.45
+XNYS,CBZ,"CBIZ Inc",4000.25
+XNGS,ON,"ON Semiconductor Corp",20702.04
+XNYS,PLD,"Prologis Inc",100048.98
+XNYS,HGV,"Hilton Grand Vacations Inc",3577.73
+XNYS,LRN,"Stride Inc",6297.38
+XNYS,ROL,"Rollins Inc",28027.10
+XNYS,SM,"SM Energy Co",2748.24
+XNGS,RRR,"Red Rock Resorts Inc",2968.94
+XNGS,PNTG,"Pennant Group Inc",1021.66
+XNMS,VCYT,"Veracyte Inc",2112.93
+XNYS,CCS,"Century Communities Inc",1629.67
+XNGS,ETSY,"ETSY Inc",6540.58
+XNGS,NXT,"Nextracker Inc",8433.58
+XNGS,MLYS,"Mineralys Therapeutics Inc",1018.04
+XNGS,PRDO,"Perdoceo Education Corp",2180.39
+XNYS,BIPC,"Brookfield Infrastructure Corp",4872.26
+XNGS,LNW,"Light & Wonder Inc",7239.69
+XNGS,AZN,"AstraZeneca PLC",224377.38
+XNGS,EBC,"Eastern Bankshares Inc",3108.56
+XNYS,WRB,"W R Berkley Corp",28023.02
+XNGS,FTAI,"FTAI Aviation Ltd",12664.64
+XNYS,CTRE,"CareTrust REIT Inc",5591.57
+XNYS,WST,"West Pharmaceutical Services Inc",15703.96
+XNGS,AMPH,"Amphastar Pharmaceuticals Inc",1202.99
+XNYS,FNA,"Paragon 28 Inc",1100.41
+XNYS,EPRT,"Essential Properties Realty Trust Inc",6373.72
+XNYS,WY,"Weyerhaeuser Co",19364.79
+XNGS,XEL,"Xcel Energy Inc",39548.48
+XNMS,CDNA,"CareDx Inc",1044.57
+XNYS,WD,"Walker & Dunlop Inc",2289.68
+XNYS,WEC,"WEC Energy Group Inc",33442.00
+XNGS,PLMR,"Palomar Holdings Inc",4502.57
+XNYS,WFC,"Wells Fargo & Co",243738.27
+XNYS,WGO,"Winnebago Industries Inc",920.07
+XNYS,WM,"Waste Management Inc",96030.64
+XNGS,IIIV,"I3 Verticals Inc",606.20
+XNYS,WOR,"Worthington Enterprises Inc",2960.59
+XNYS,VNO,"Vornado Realty Trust",7514.81
+XNYS,ETRN,"Equitrans Midstream Corp",5463.76
+XNYS,VPG,"Vishay Precision Group Inc",335.10
+XNYS,VSH,"Vishay Intertechnology Inc",1817.29
+XNYS,VTR,"Ventas Inc",28567.18
+XNCM,AMPL,"Amplitude Inc",1281.38
+XNYS,WAT,"Waters Corp",20609.78
+XNYS,WAB,"Westinghouse Air Brake Technologies Corp",34938.86
+XNMS,LOVE,"Lovesac Co",285.32
+XNMS,TRUP,"Trupanion Inc",2035.65
+XNYS,GRMN,"Garmin Ltd",39563.42
+XNGS,BKR,"Baker Hughes Co",36806.36
+XNYS,V,"Visa Inc",627537.99
+XNMS,EVER,"EverQuote Inc",801.11
+XNYS,OEC,"Orion SA",631.35
+XNGS,VC,"Visteon Corp",2253.44
+XNYS,VFC,"VF Corp",4906.88
+XNCM,VKTX,"Viking Therapeutics Inc",3036.85
+XNYS,VLO,"Valero Energy Corp",39739.59
+XNYS,CTLT,"Catalent Inc",11523.26
+XNYS,SYF,"Synchrony Financial",21868.38
+XNYS,TYL,"Tyler Technologies Inc",24743.86
+XNGS,UAL,"United Airlines Holdings Inc",26242.36
+XNYS,CFG,"Citizens Financial Group Inc",17603.38
+XNMS,LNTH,"Lantheus Holdings Inc",5557.70
+XNGS,HQY,"Healthequity Inc",9745.77
+XNYS,RDW,"Redwire Corp",1362.83
+XNYS,UDR,"UDR Inc",13576.50
+XNGS,BPMC,"Blueprint Medicines Corp",8260.06
+XNYS,URI,"United Rentals Inc",45446.03
+XNYS,UPS,"United Parcel Service Inc",71076.14
+XNYS,USB,"US Bancorp",68054.64
+XNYS,TMO,"Thermo Fisher Scientific Inc",150378.47
+XNYS,TNK,"Teekay Tankers Ltd",1345.33
+XNYS,VTLE,"Vital Energy Inc",639.29
+XNMS,VITL,"Vital Farms Inc",1359.74
+XNYS,TRN,"Trinity Industries Inc",2092.56
+XNMS,LBPH,"Longboard Pharmaceuticals Inc",2065.48
+XNYS,TAP,"Molson Coors Beverage Co",9844.98
+XNGS,WFRD,"Weatherford International PLC",3397.80
+XNGS,COLL,"Collegium Pharmaceutical Inc",947.89
+XNYS,TDG,"TransDigm Group Inc",81132.79
+XNYS,TDY,"Teledyne Technologies Inc",23430.61
+XNGS,TER,"Teradyne Inc",13112.75
+XNYS,TEL,"TE Connectivity PLC",48135.43
+XNYS,TFX,"Teleflex Inc",5411.38
+XNGS,AKRO,"Akero Therapeutics Inc",4299.97
+XASE,LEU,"Centrus Energy Corp",2224.81
+XNYS,SSD,"Simpson Manufacturing Co Inc",6671.13
+XNYS,STC,"Stewart Information Services Corp",1698.90
+XNYS,STE,"STERIS plc",23961.53
+XNYS,STZ,"Constellation Brands Inc",30365.61
+XNYS,STT,"State Street Corp",27514.32
+XNGS,PLAY,"Dave & Buster's Entertainment Inc",781.73
+XNMS,VBTX,"Veritex Holdings Inc",1310.11
+XNYS,SWK,"Stanley Black & Decker Inc",10125.94
+XNGS,CECO,"CECO Environmental Corp",943.77
+XNYS,SNA,"Snap-On Inc",16681.88
+XNYS,SO,"Southern Co",97134.49
+XNYS,SPG,"Simon Property Group Inc",52471.54
+XNYS,SR,"Spire Inc",4343.64
+XNYS,SRE,"Sempra",49512.82
+XNYS,SEM,"Select Medical Holdings Corp",1971.79
+XNYS,ROK,"Rockwell Automation Inc",36125.63
+XNMS,INBX,"Inhibrx Inc",436.20
+XNYS,SHW,"Sherwin-Williams Co",89684.94
+XNYS,SIG,"Signet Jewelers Ltd",3078.04
+XNGS,DCPH,"Deciphera Pharmaceuticals Inc",2214.65
+XNYS,SIX,"Six Flags Entertainment Corp/OLD",2694.96
+XNYS,SJM,"J M Smucker Co",11816.50
+XNYS,SLB,"Schlumberger NV",44994.15
+XNYS,SKY,"Champion Homes Inc",3745.13
+XNYS,SLG,"SL Green Realty Corp",4407.30
+XNYS,ASAN,"Asana Inc",2292.79
+XNYS,ROG,"Rogers Corp",1231.16
+XNYS,RSG,"Republic Services Inc",79111.74
+XNYS,SAH,"Sonic Automotive Inc",1568.77
+XNGS,PETQ,"PetIQ Inc",919.47
+XNGS,REG,"Regency Centers Corp",12932.15
+XNYS,RF,"Regions Financial Corp",19165.19
+XNYS,RGR,"Sturm Ruger & Company Inc",592.17
+XNYS,RL,"Ralph Lauren Corp",10576.31
+XNGS,JD,"JD.Com Inc",52186.78
+XNYS,RMD,"Resmed Inc",36611.40
+XNMS,VERA,"Vera Therapeutics Inc",1682.10
+XNMS,MORF,"Morphic Holding Inc",2862.05
+XNGS,AMBA,"Ambarella Inc",2193.23
+XNYS,RCL,"Royal Caribbean Cruises Ltd",73701.48
+XNYS,BBWI,"Bath & Body Works Inc",5626.76
+XNYS,RDN,"Radian Group Inc",4459.89
+XNYS,STEL,"Stellar Bancorp Inc",1378.45
+XNMS,SUPN,"Supernus Pharmaceuticals Inc",1810.70
+XNGS,MTSI,"MACOM Technology Solutions Holdings Inc",9490.96
+XNYS,D,"Dominion Energy Inc",47756.27
+XNYS,FBK,"FB Financial Corp",1960.11
+XNGS,WAFD,"WaFd Inc",2277.30
+XNGS,EWTX,"Edgewise Therapeutics Inc",1559.07
+XNYS,KNTK,"Kinetik Holdings Inc",2663.53
+XNGS,CRDO,"Credo Technology Group Holding Ltd",12395.49
+XNGS,THRM,"Gentherm Inc",835.37
+XNYS,PWR,"Quanta Services Inc",53312.64
+XNYS,KEYS,"Keysight Technologies Inc",27508.16
+XNYS,B,"Barnes Group Inc",2418.63
+XNYS,F,"Ford Motor Co",39447.54
+XNMS,EVBG,"Everbridge Inc",1456.56
+XNGS,CHUY,"Chuy's Holdings Inc",645.88
+XNMS,ENPH,"Enphase Energy Inc",5418.85
+XNGS,NWS,"News Corp",6081.00
+XNGS,KE,"Kimball Electronics Inc",452.01
+XNYS,K,"Kellanova",28501.04
+XNYS,IQV,"IQVIA Holdings Inc",25495.01
+XNGS,PCRX,"Pacira Biosciences Inc",1237.82
+XNYS,POR,"Portland General Electric Co",4514.18
+XNYS,PPG,"PPG Industries Inc",25256.02
+XNGS,FANG,"Diamondback Energy Inc",40158.49
+XNYS,AGX,"Argan Inc",3209.00
+XNYS,PSFE,"Paysafe Ltd",739.29
+XNYS,MRC,"MRC Global Inc",1084.44
+XNYS,PRO,"Pros Holdings Inc",880.49
+XNYS,PSA,"Public Storage",52710.10
+XNGS,EA,"Electronic Arts Inc",37083.27
+XNYS,DOC,"Healthpeak Properties Inc",11866.02
+XNGS,HST,"Host Hotels & Resorts Inc",10662.39
+XNYS,BCC,"Boise Cascade Co",3291.47
+XNYS,PJT,"PJT Partners Inc",3690.49
+XNMS,ADMA,"ADMA Biologics Inc",4760.36
+XNYS,PM,"Philip Morris International Inc",283223.87
+XNYS,PMT,"PennyMac Mortgage Investment Trust",1075.45
+XNYS,PNC,"PNC Financial Services Group Inc",69105.56
+XNGS,INTA,"Intapp Inc",4581.26
+XNYS,GNE,"Genie Energy Ltd",573.41
+XNYS,PNW,"Pinnacle West Capital Corp",10673.08
+XNYS,HLT,"Hilton Worldwide Holdings Inc",59061.25
+XNYS,PEG,"Public Service Enterprise Group Inc",39835.00
+XNYS,HII,"Huntington Ingalls Industries Inc",8820.17
+XNYS,FBRT,"Franklin BSP Realty Trust Inc",897.78
+XNYS,HCA,"HCA Healthcare Inc",91778.94
+XNGS,PFG,"Principal Financial Group Inc",17025.05
+XNMS,RYTM,"Rhythm Pharmaceuticals Inc",4210.47
+XNYS,IBP,"Installed Building Products Inc",4686.95
+XNYS,PG,"Procter & Gamble Co",381691.44
+XNYS,PH,"Parker-Hannifin Corp",84585.21
+XNYS,PRLB,"Proto Labs Inc",886.88
+XNGS,MNST,"Monster Beverage Corp",61440.51
+XNGS,MDLZ,"Mondelez International Inc",85936.90
+XNYS,YOU,"Clear Secure Inc",2395.23
+XNYS,PHM,"Pultegroup Inc",20371.42
+XNGS,ONB,"Old National Bancorp",6561.19
+XNYS,CTRA,"Coterra Energy Inc",18951.76
+XNGS,INTC,"Intel Corp",87196.38
+XNYS,FPI,"Farmland Partners Inc",527.97
+XNYS,OXY,"Occidental Petroleum Corp",41156.43
+XNGS,AKAM,"Akamai Technologies Inc",11132.15
+XNGS,ADBE,"Adobe Inc",176958.24
+XNYS,OXM,"Oxford Industries Inc",808.66
+XNGS,CRNX,"Crinetics Pharmaceuticals Inc",3026.09
+XNYS,PBH,"Prestige Consumer Healthcare Inc",4181.47
+XNMS,VCEL,"Vericel Corp",2184.88
+XNYS,MEG,"Montrose Environmental Group Inc",724.82
+XNGS,AMZN,"Amazon.com Inc",2207245.83
+XNGS,ALTR,"Altair Engineering Inc",6756.18
+XNGS,AMGN,"Amgen Inc",154375.43
+XNGS,AMAT,"Applied Materials Inc",131762.18
+XNGS,AAPL,"Apple Inc",2996574.77
+XNYS,BAC,"Bank of America Corp",334264.66
+XNGS,PARA,"Paramount Global",7538.12
+XNGS,CSCO,"Cisco Systems Inc",255895.08
+XNYS,NOG,"Northern Oil and Gas Inc",2743.97
+XNGS,CMCSA,"Comcast Corp",135593.77
+XNGS,COST,"Costco Wholesale Corp",448271.07
+XNMS,PUBM,"PubMatic Inc",478.90
+XNYS,XOM,"Exxon Mobil Corp",438782.25
+XNGS,EBAY,"eBay Inc",35838.14
+XNGS,CARG,"CarGurus Inc",2686.90
+XNGS,GILD,"Gilead Sciences Inc",137404.41
+XNGS,GOOG,"Alphabet Inc",933445.57
+XNGS,BBIO,"BridgeBio Pharma Inc",7280.03
+XNYS,OFG,"OFG Bancorp",1845.93
+XNGS,MSFT,"Microsoft Corp",3476052.11
+XNGS,MRVL,"Marvell Technology Inc",56180.95
+XNYS,CDRE,"Cadre Holdings Inc",1380.80
+XNYS,OI,"O-I Glass Inc",2049.55
+XNGS,NFLX,"Netflix Inc",532185.38
+XNGS,NTAP,"NetApp Inc",21276.85
+XNYS,OKE,"ONEOK Inc",51112.67
+XNYS,BE,"Bloom Energy Corp",4749.07
+XNGS,QCOM,"Qualcomm Inc",162020.88
+XNGS,PDD,"PDD Holdings Inc",141013.48
+XNGS,SBUX,"Starbucks Corp",98855.44
+XNGS,PTCT,"PTC Therapeutics Inc",4099.97
+XNGS,TENB,"Tenable Holdings Inc",3977.88
+XNCM,LQDA,"Liquidia Corp",1540.43
+XNYS,NX,"Quanex Building Products Corp",806.81
+XNMS,IRON,"Disc Medicine Inc",1662.79
+XNYS,QTWO,"Q2 Holdings Inc",5606.10
+XNGS,VRNS,"Varonis Systems Inc",5611.92
+XNYS,IBM,"International Business Machines Corp",248018.77
+XNYS,NRG,"NRG Energy Inc",30505.49
+XNYS,AI,"C3.ai Inc",3274.91
+XNGS,AAL,"American Airlines Group Inc",7432.70
+XNGS,ABNB,"Airbnb Inc",59254.67
+XNGS,GOOGL,"Alphabet Inc",978982.20
+XNYS,NEE,"Nextera Energy Inc",147192.12
+XNYS,ARLO,"Arlo Technologies Inc",1681.16
+XNYS,NHI,"National Health Investors Inc",3332.06
+XNYS,NI,"NiSource Inc",18352.71
+XNYS,MYE,"Myers Industries Inc",505.03
+XNYS,ACHR,"Archer Aviation Inc",5138.74
+XNGS,SLP,"Simulations Plus Inc",558.89
+XNYS,REVG,"REV Group Inc",2094.38
+XNYS,NBR,"Nabors Industries Ltd",447.44
+XNMS,RNA,"Avidity Biosciences Inc",4289.31
+XNGS,ANAB,"AnaptysBio Inc",621.10
+XNMS,NRDS,"NerdWallet Inc",465.10
+XNYS,MIR,"Mirion Technologies Inc",4463.73
+XNYS,MS,"Morgan Stanley",209556.17
+XNYS,ARIS,"Aris Water Solutions Inc",778.50
+XNYS,MTH,"Meritage Homes Corp",4686.21
+XNYS,MUR,"Murphy Oil Corp",3074.10
+XNYS,MHO,"M/I Homes Inc",2931.75
+XNYS,MHK,"Mohawk Industries Inc",6301.86
+XNYS,CIVI,"Civitas Resources Inc",2542.24
+XNYS,MLI,"Mueller Industries Inc",8543.27
+XNYS,MLM,"Martin Marietta Materials Inc",33159.39
+XNYS,MOD,"Modine Manufacturing Co",4834.20
+XNYS,MO,"Altria Group Inc",100039.59
+XNYS,MCD,"McDonald's Corp",220930.81
+XNYS,MCS,"Marcus Corp",416.48
+XNYS,MD,"Pediatrix Medical Group Inc",1195.81
+XNYS,AORT,"Artivion Inc",1243.51
+XNYS,MET,"MetLife Inc",52737.16
+XNYS,WK,"Workiva Inc",3542.93
+XNYS,MGM,"MGM Resorts International",8515.55
+XNYS,NTB,"Bank of NT Butterfield & Son Ltd",1774.11
+XNYS,ELF,"elf Beauty Inc",6522.83
+XNYS,LNC,"Lincoln National Corp",5600.43
+XNGS,LNT,"Alliant Energy Corp",15494.78
+XNYS,LOW,"Lowe's Companies Inc",127550.01
+XNMS,TTD,"Trade Desk Inc",31866.95
+XNYS,LUV,"Southwest Airlines Co",18497.84
+XNYS,LVS,"Las Vegas Sands Corp",28448.83
+XNGS,META,"Meta Platforms Inc",1486411.41
+XNYS,LYB,"LyondellBasell Industries NV",17869.84
+XNYS,LZB,"La-Z-Boy Inc",1664.35
+XNYS,MA,"Mastercard Inc",573045.54
+XNYS,MAC,"Macerich Co",3969.11
+XNYS,MAA,"Mid-America Apartment Communities Inc",17537.59
+XNGS,PAX,"Patria Investments Ltd",804.70
+XNGS,MAR,"Marriott International Inc",71160.95
+XNYS,OMC,"Omnicom Group Inc",13700.58
+XNYS,MSGE,"Madison Square Garden Entertainment Corp",1538.48
+XNGS,BL,"BlackLine Inc",3628.28
+XNYS,RXO,"RXO Inc",2604.63
+XNYS,PD,"PagerDuty Inc",1417.64
+XNYS,LEN,"Lennar Corp",25554.22
+XNYS,LH,"Labcorp Holdings Inc",21104.96
+XNYS,AMN,"AMN Healthcare Services Inc",768.75
+XNGS,MXL,"Maxlinear Inc",1045.99
+XNYS,DO,"Diamond Offshore Drilling Inc",1443.95
+XNYS,GRBK,"Green Brick Partners Inc",2621.52
+XNYS,KMX,"Carmax Inc",9985.55
+XNYS,KMT,"Kennametal Inc",1662.65
+XNYS,KO,"Coca-Cola Co",305215.55
+XNYS,KR,"Kroger Co",43777.58
+XNCM,MARA,"MARA Holdings Inc",5236.68
+XNYS,CHCT,"Community Healthcare Trust Inc",460.21
+XNYS,KRG,"Kite Realty Group Trust",4813.89
+XNYS,APLE,"Apple Hospitality REIT Inc",2752.67
+XNGS,CEG,"Constellation Energy Corp",90853.43
+XNGS,EYE,"National Vision Holdings Inc",1649.06
+XNYS,KAR,"Openlane Inc",2543.92
+XNGS,LAUR,"Laureate Education Inc",3312.51
+XNYS,OPFI,"OppFi Inc",354.64
+XNYS,KFY,"Korn Ferry",3568.51
+XNYS,KIM,"Kimco Realty Corp",14084.65
+XNMS,TVTX,"Travere Therapeutics Inc",1307.21
+XNYS,ADNT,"Adient PLC",1319.06
+XNYS,JPM,"JPMorgan Chase & Co",727983.80
+XASE,CMCL,"Caledonia Mining Corporation PLC",370.65
+XNYS,BHVN,"Biohaven Ltd",1654.22
+XNYS,CAL,"Caleres Inc",442.00
+XNYS,SPHR,"Sphere Entertainment Co",1087.52
+XNYS,L,"Loews Corp",18581.21
+XNGS,SMCI,"Super Micro Computer Inc",24332.26
+XNYS,ITW,"Illinois Tool Works Inc",72110.23
+XNYS,HRI,"Herc Holdings Inc",3392.34
+XNYS,IT,"Gartner Inc",32423.09
+XNGS,AAON,"Aaon Inc",7717.58
+XNYS,GATX,"GATX Corp",5548.14
+XNYS,IVZ,"Invesco Ltd",6377.68
+XNGS,ABCB,"Ameris Bancorp",4144.36
+XNYS,ITGR,"Integer Holdings Corp",4218.44
+XNYS,JCI,"Johnson Controls International PLC",67331.40
+XNGS,ACAD,"ACADIA Pharmaceuticals Inc",3571.50
+XNGS,ACLS,"Axcelis Technologies Inc",1939.02
+XNGS,ACIW,"ACI Worldwide Inc",4927.14
+XNMS,ACMR,"ACM Research Inc",1389.28
+XNYS,RAMP,"Liveramp Holdings Inc",2152.53
+XNGS,ADP,"Automatic Data Processing Inc",132424.18
+XNYS,IP,"International Paper Co",24864.16
+XNGS,ADSK,"Autodesk Inc",63819.08
+XNYS,IPI,"Intrepid Potash Inc",504.84
+XNGS,AEIS,"Advanced Energy Industries Inc",4505.09
+XNYS,DBRG,"DigitalBridge Group Inc",1914.38
+XNGS,AGYS,"Agilysys Inc",3113.84
+XNGS,FA,"First Advantage Corp",3148.14
+XNYS,AVNS,"Avanos Medical Inc",570.19
+XNYS,HZO,"MarineMax Inc",471.56
+XNYS,ICE,"Intercontinental Exchange Inc",102426.71
+XNGS,ALGN,"Align Technology Inc",13066.12
+XNGS,BAND,"Bandwidth Inc",395.66
+XNGS,ALGT,"Allegiant Travel Co",1002.37
+XNGS,ALKS,"Alkermes Plc",5111.94
+XNGS,ZS,"Zscaler Inc",46845.71
+XNYS,STNG,"Scorpio Tankers Inc",2016.16
+XNYS,HMN,"Horace Mann Educators Corp",1759.62
+XNYS,HNI,"HNI Corp",2169.82
+XNGS,AMKR,"Amkor Technology Inc",4652.07
+XNYS,VEL,"Velocity Financial Inc",611.23
+XNYS,HP,"Helmerich and Payne Inc",1618.55
+XNYS,SXT,"Sensient Technologies Corp",4077.34
+XNYS,SWX,"Southwest Gas Holdings Inc",5140.32
+XNYS,HPQ,"HP Inc",23200.04
+XNYS,SYK,"Stryker Corp",146224.99
+XNYS,SYY,"Sysco Corp",35760.13
+XNYS,TDW,"Tidewater Inc",2089.38
+XNYS,TDS,"Telephone and Data Systems Inc",3718.25
+XNYS,TEX,"Terex Corp",3033.58
+XNYS,ASB,"Associated Banc-Corp",3797.04
+XNYS,BF.B,"Brown-Forman Corp",8271.46
+XNYS,TGT,"Target Corp",42492.30
+XNYS,WELL,"Welltower Inc",100074.21
+XNGS,ANDE,"Andersons Inc",1169.22
+XNYS,TGI,"Triumph Group Inc",2008.93
+XNYS,TT,"Trane Technologies PLC",96080.62
+XNYS,HD,"Home Depot Inc",367407.01
+XNMS,GDEN,"Golden Entertainment Inc",708.20
+XNYS,THS,"TreeHouse Foods Inc",1102.92
+XNYS,IR,"Ingersoll Rand Inc",33031.49
+XNGS,ANSS,"ANSYS Inc",29746.43
+XNYS,TJX,"TJX Companies Inc",142095.96
+XNGS,AOSL,"Alpha and Omega Semiconductor Ltd",670.66
+XNYS,HES,"Hess Corp",41153.66
+XNYS,RNGR,"Ranger Energy Services Inc",261.65
+XNYS,TXT,"Textron Inc",13450.14
+XNYS,HI,"Hillenbrand Inc",1400.62
+XNYS,UHS,"Universal Health Services Inc",10958.13
+XNYS,HIG,"Hartford Insurance Group Inc",36376.55
+XNMS,FLGT,"Fulgent Genetics Inc",633.84
+XNYS,UTI,"Universal Technical Institute Inc",1905.31
+XNYS,USNA,"USANA Health Sciences Inc",541.37
+XNYS,CARS,"Cars.com Inc",647.35
+XNYS,VGR,"Vector Group Ltd",2359.06
+XNYS,UVV,"Universal Corp",1496.28
+XNYS,GS,"Goldman Sachs Group Inc",185908.90
+XNYS,VMC,"Vulcan Materials Co",35095.94
+XNGS,GT,"Goodyear Tire & Rubber Co",3074.17
+XNGS,WDC,"Western Digital Corp",19205.75
+XNYS,GTY,"Getty Realty Corp",1598.39
+XNYS,WHR,"Whirlpool Corp",4563.92
+XNYS,WMB,"Williams Companies Inc",73845.00
+XNYS,WWW,"Wolverine World Wide Inc",1395.58
+XNGS,ARWR,"Arrowhead Pharmaceuticals Inc",2273.13
+XNYS,WTS,"Watts Water Technologies Inc",6602.99
+XNGS,MGNI,"Magnite Inc",2463.79
+XNYS,HAE,"Haemonetics Corp",3381.80
+XNYS,ASGN,"ASGN Inc",2306.37
+XNGS,ASML,"ASML Holding NV",294490.84
+XNYS,HCC,"Warrior Met Coal Inc",2448.74
+XNGS,ALKT,"Alkami Technology Inc",3135.93
+XNYS,LMT,"Lockheed Martin Corp",112000.49
+XNYS,GM,"General Motors Co",45427.79
+XNGS,ATEC,"Alphatec Holdings Inc",1818.39
+XNGS,CHX,"ChampionX Corp",4651.91
+XNYS,GNK,"Genco Shipping & Trading Ltd",573.94
+XNMS,ATRC,"AtriCure Inc",1726.23
+XNYS,CBT,"Cabot Corp",4026.54
+XNYS,GPC,"Genuine Parts Co",17509.70
+XNGS,ATRO,"Astronics Corp",1143.98
+XNYS,GPN,"Global Payments Inc",18539.76
+XNGS,ATSG,"Air Transport Services Group Inc",1481.55
+XNGS,FTDR,"Frontdoor Inc",4190.71
+XNYS,SEE,"Sealed Air Corp",4677.77
+XNGS,AVAV,"AeroVironment Inc",5265.35
+XNGS,AVGO,"Broadcom Inc",1222177.53
+XNYS,DFH,"Dream Finders Homes Inc",803.26
+XNYS,PRMW,"Primo Water Corp",3892.83
+XNYS,GFF,"Griffon Corp",3300.75
+XNYS,CALX,"Calix Inc",3080.91
+XNYS,DD,"Dupont De Nemours Inc",28211.00
+XNGS,BCRX,"BioCryst Pharmaceuticals Inc",2297.57
+XNYS,SKT,"Tanger Inc",3318.25
+XNYS,FUL,"H.B. Fuller Company",3020.16
+XNGS,BECN,"Beacon Roofing Supply Inc",7719.25
+XNYS,GBX,"Greenbrier Companies Inc",1420.68
+XNYS,GD,"General Dynamics Corp",73653.28
+XNYS,BHLB,"Berkshire Hills Bancorp Inc",1138.81
+XNYS,GE,"General Electric Co",268644.12
+XNYS,YUM,"Yum! Brands Inc",39715.57
+XNGS,BIIB,"Biogen Inc",19101.37
+XNYS,BRBR,"Bellring Brands Inc",7828.08
+XNYS,NE,"Noble Corporation PLC",4199.82
+XNYS,FN,"Fabrinet",8499.75
+XNYS,PRIM,"Primoris Services Corp",3979.41
+XNYS,MWA,"Mueller Water Products Inc",3818.23
+XNGS,BJRI,"BJ's Restaurants Inc",968.23
+XNYS,FOR,"Forestar Group Inc",1002.25
+XNGS,BLKB,"Blackbaud Inc",3078.45
+XNYS,MCK,"McKesson Corp",89029.87
+XNYS,FRT,"Federal Realty Investment Trust",8103.64
+XNYS,KBH,"KB Home",3798.29
+XNYS,AAP,"Advance Auto Parts Inc",3135.31
+XNYS,AVA,"Avista Corp",2996.96
+XNYS,OII,"Oceaneering International Inc",2019.94
+XNYS,FSS,"Federal Signal Corp",6059.08
+XNYS,MCO,"Moody's Corp",87708.45
+XNYS,PKG,"Packaging Corp of America",17519.11
+XNYS,CRM,"Salesforce Inc",255385.84
+XNYS,AX,"Axos Financial Inc",3925.26
+XNYS,AVB,"AvalonBay Communities Inc",28896.56
+XNYS,FCF,"First Commonwealth Financial Corp",1616.06
+XNYS,GRND,"Grindr Inc",4556.27
+XNYS,FCX,"Freeport-McMoRan Inc",59875.19
+XNYS,EVRI,"Everi Holdings Inc",1230.75
+XNYS,AMR,"Alpha Metallurgical Resources Inc",1404.99
+XNYS,BOOT,"Boot Barn Holdings Inc",5090.67
+XNYS,FDS,"Factset Research Systems Inc",16373.40
+XNYS,FDP,"Fresh Del Monte Produce Inc",1570.60
+XNGS,AVPT,"AvePoint Inc",3851.27
+XNYS,FE,"FirstEnergy Corp",23507.57
+XNGS,BRKL,"Brookline Bancorp Inc",912.43
+XNYS,RSI,"Rush Street Interactive Inc",1221.98
+XNYS,DXC,"DXC Technology Co",2807.82
+XNYS,NAPA,"Duckhorn Portfolio Inc",1632.45
+XNYS,FIX,"Comfort Systems USA Inc",17606.73
+XNYS,ABT,"Abbott Laboratories",233033.70
+XNYS,FL,"Foot Locker Inc",2281.14
+XNGS,BUSE,"First Busey Corp",1989.37
+XNGS,ACT,"Enact Holdings Inc",5159.28
+XNYS,FMC,"FMC Corp",5233.70
+XNYS,ETN,"Eaton Corporation PLC",127751.62
+XNYS,LW,"Lamb Weston Holdings Inc",7795.23
+XNYS,ETR,"Entergy Corp",35237.32
+XNYS,MCY,"Mercury General Corp",3572.57
+XNYS,SMR,"Nuscale Power Corp",4141.65
+XNYS,CADE,"Cadence Bank",5484.85
+XNGS,EXC,"Exelon Corp",43268.70
+XNYS,ZETA,"Zeta Global Holdings Corp",2176.99
+XNYS,EW,"Edwards Lifesciences Corp",45619.88
+XNYS,EFC,"Ellington Financial Inc",1188.03
+XNYS,EXR,"Extra Space Storage Inc",31710.67
+XNYS,ENVA,"Enova International Inc",2384.22
+XNGS,CAKE,"Cheesecake Factory Inc",2808.24
+XNYS,ORA,"Ormat Technologies Inc",4553.03
+XNGS,CALM,"Cal-Maine Foods Inc",4639.43
+XNYS,PPL,"PPL Corp",25208.90
+XNCM,GDYN,"Grid Dynamics Holdings Inc",1010.34
+XNYS,FBP,"First BanCorp",3209.85
+XNGS,PLTR,"Palantir Technologies Inc",271345.09
+XNGS,CATY,"Cathay General Bancorp",3051.20
+XNYS,ENR,"Energizer Holdings Inc",1591.85
+XNYS,MKC,"McCormick & Company Inc",18423.03
+XNGS,CMPR,"Cimpress PLC",1122.78
+XNYS,ENS,"EnerSys",3354.02
+XNYS,EOG,"EOG Resources Inc",60598.73
+XNYS,ED,"Consolidated Edison Inc",36847.48
+BATS,CBOE,"Cboe Global Markets Inc",23324.90
+XNGS,GEHC,"GE Healthcare Technologies Inc",32761.67
+XNYS,NJR,"New Jersey Resources Corp",4481.59
+XNYS,UTZ,"UTZ Brands Inc",1179.05
+XNGS,CBRL,"Cracker Barrel Old Country Store Inc",1194.18
+XNYS,RHI,"Robert Half Inc",4451.28
+XNGS,SILK,"Silk Road Medical Inc",1117.38
+XNYS,ES,"Eversource Energy",23990.23
+XNGS,CCOI,"Cogent Communications Holdings Inc",2339.08
+XNGS,WBA,"Walgreens Boots Alliance Inc",9728.30
+XNGS,CCRN,"Cross Country Healthcare Inc",424.54
+XNYS,ESS,"Essex Property Trust Inc",17908.09
+XNGS,CDNS,"Cadence Design Systems Inc",80899.61
+XNYS,PRA,"ProAssurance Corp",1187.93
+XNYS,DY,"Dycom Industries Inc",6878.04
+XNYS,NKE,"Nike Inc",74028.26
+XNYS,EAT,"Brinker International Inc",7526.91
+XNYS,IONQ,"IONQ Inc",8927.94
+XNYS,ECL,"Ecolab Inc",75710.04
+XNYS,EMN,"Eastman Chemical Co",9045.15
+XNYS,RJF,"Raymond James Financial Inc",28933.62
+XNGS,CENX,"Century Aluminum Co",1839.94
+XNYS,SOI,"Solaris Oilfield Infrastructure Inc",343.95
+XNYS,SBOW,"SilverBow Resources Inc",940.62
+XNYS,EMR,"Emerson Electric Co",68906.25
+XNGS,CEVA,"CEVA Inc",476.77
+XNYS,JBT,"John Bean Technologies Corp",3991.16
+XNYS,MDT,"Medtronic PLC",111581.28
+XNMS,CMPO,"CompoSecure Inc",1400.73
+XNYS,PLOW,"Douglas Dynamics Inc",638.49
+XNYS,OUT,"OUTFRONT Media Inc",2721.63
+XNYS,EL,"Estee Lauder Companies Inc",15797.46
+XNYS,KEY,"KeyCorp",17425.48
+XNGS,CSX,"CSX Corp",59625.05
+XNYS,CCL,"Carnival Corp",28021.90
+XNYS,DPZ,"Domino's Pizza Inc",14488.58
+XNGS,CHRW,"CH Robinson Worldwide Inc",11339.96
+XNYS,AWK,"American Water Works Co Inc",27305.53
+XNGS,IMVT,"Immunovant Inc",2738.19
+XNGS,CHTR,"Charter Communications Inc",54920.31
+XNMS,HROW,"Harrow Inc",1053.60
+XNYS,CDP,"COPT Defense Properties",3096.32
+XNYS,DRQ,"Dril-Quip Inc",531.25
+XNGS,CINF,"Cincinnati Financial Corp",23425.22
+XNYS,DUK,"Duke Energy Corp",89959.74
+XNYS,DVA,"DaVita Inc",10399.37
+XNGS,QRVO,"Qorvo Inc",7267.13
+XNYS,ATGE,"Adtalem Global Education Inc",4764.31
+XNYS,DVN,"Devon Energy Corp",20174.78
+XNCM,CLDX,"Celldex Therapeutics Inc",1296.48
+XNMS,CLFD,"Clearfield Inc",537.06
+XNYS,DX,"Dynex Capital Inc",1296.69
+XNYS,CVS,"CVS Health Corp",79797.43
+XNYS,DE,"Deere & Co",138324.92
+XNYS,GVA,"Granite Construction Inc",3965.27
+XNYS,DEI,"Douglas Emmett Inc",2412.90
+XNGS,CME,"CME Group Inc",99061.89
+XNYS,SLVM,"Sylvamo Corp",2167.67
+XNGS,CMCO,"Columbus McKinnon Corp",425.19
+XNYS,CWH,"Camping World Holdings Inc",1111.86
+XNYS,AEE,"Ameren Corp",25952.20
+XNYS,DFS,"Discover Financial Services",50343.26
+XNYS,DG,"Dollar General Corp",25052.84
+XNCM,RDVT,"Red Violet Inc",646.58
+XNYS,DGX,"Quest Diagnostics Inc",19385.50
+XNYS,DHI,"DR Horton Inc",37703.43
+XNYS,MOH,"Molina Healthcare Inc",15910.95
+XNYS,DHT,"DHT Holdings Inc",1858.23
+XNMS,MIRM,"Mirum Pharmaceuticals Inc",2211.72
+XNYS,DK,"Delek US Holdings Inc",1161.11
+XNYS,ALE,"ALLETE Inc",3777.55
+XNYS,DLR,"Digital Realty Trust Inc",59244.99
+XNYS,DFIN,"Donnelley Financial Solutions Inc",1542.80
+XNMS,TMDX,"Transmedics Group Inc",4586.23
+XNYS,ASIX,"AdvanSix Inc",632.51
+XNYS,BKH,"Black Hills Corp",4149.71
+XNGS,COHU,"Cohu Inc",833.79
+XNYS,MOS,"Mosaic Co",11547.20
+XNGS,PWP,"Perella Weinberg Partners",1103.92
+XNYS,VRE,"Veris Residential Inc",1397.02
+XNGS,COKE,"Coca-Cola Consolidated Inc",818.90
+XNYS,CWT,"California Water Service Group",2731.29
+XNYS,ALEX,"Alexander & Baldwin Inc (Hawaii)",1311.72
+XNCM,CORT,"Corcept Therapeutics Inc",7318.14
+XNYS,ETD,"Ethan Allen Interiors Inc",661.69
+XNYS,CXW,"CoreCivic Inc",2357.82
+XNYS,DAN,"Dana Inc",2400.33
+XNCM,CPRX,"Catalyst Pharmaceuticals Inc",3093.29
+XNGS,CPRT,"Copart Inc",48482.18
+XNYS,ALK,"Alaska Air Group Inc",6224.74
+XNYS,AEO,"American Eagle Outfitters Inc",1756.79
+XNCM,ACIC,"American Coastal Insurance Corp",529.95
+XNYS,IGT,"International Game Technology PLC",2947.64
+XNYS,DOV,"Dover Corp",24300.38
+XNYS,PAR,"PAR Technology Corp",2647.32
+XNYS,MPLN,"Claritev Corp",375.47
+XNYS,BBW,"Build-A-Bear Workshop Inc",612.23
+XNYS,PNM,"PNM Resources Inc",3765.87
+XNYS,CRK,"Comstock Resources Inc",7097.40
+XNYS,EIX,"Edison International",20638.72
+XNYS,CRS,"Carpenter Technology Corp",12298.48
+XNYS,NEM,"Newmont Corporation",60669.46
+XNYS,CRL,"Charles River Laboratories International Inc",6935.14
+XNYS,PNR,"Pentair PLC",16404.99
+XNYS,ZWS,"Zurn Elkay Water Solutions Corp",6100.83
+XNYS,AES,"AES Corp",7482.31
+XNYS,GBCI,"Glacier Bancorp Inc",4709.86
+XNYS,BBY,"Best Buy Co Inc",14915.36
+XNGS,CSGS,"Csg Systems International Inc",1828.44
+XNGS,CSGP,"CoStar Group Inc",32991.54
+XNYS,PHR,"Phreesia Inc",1534.02
+XNYS,CVI,"CVR Energy Inc",2334.32
+XNYS,CVX,"Chevron Corp",239081.33
+XNMS,GAMB,"Gambling.com Group Ltd",400.82
+XNGS,CTAS,"Cintas Corp",91619.26
+XNYS,CNK,"Cinemark Holdings Inc",3629.77
+XNYS,AFL,"Aflac Inc",55259.33
+XNYS,DAL,"Delta Air Lines Inc",31890.23
+XNYS,CNX,"CNX Resources Corp",4509.56
+XNYS,BCO,"Brinks Co",3501.96
+XNYS,CPB,"Campbell Soup Co",14659.00
+XNYS,ALLE,"Allegion PLC",11894.59
+XNGS,CTSH,"Cognizant Technology Solutions Corp",39100.16
+XNGS,CVBF,"CVB Financial Corp",2561.79
+XNYS,HAL,"Halliburton Co",17151.31
+XNGS,CVLT,"Commvault Systems Inc",8258.96
+XNGS,CVGW,"Calavo Growers Inc",474.63
+XNYS,AVY,"Avery Dennison Corp",13893.36
+XNYS,APTV,"Aptiv PLC",14256.99
+XNYS,CCI,"Crown Castle Inc",43667.81
+XNMS,GCMG,"GCM Grosvenor Inc",626.93
+XNYS,GOLF,"Acushnet Holdings Corp",4155.36
+XNGS,MRNA,"Moderna Inc",10101.70
+XNYS,CHD,"Church & Dwight Co Inc",24378.99
+XNYS,CI,"Cigna Group",83086.69
+XNGS,CWST,"Casella Waste Systems Inc",7195.27
+XNYS,AIG,"American International Group Inc",49230.13
+XNYS,CL,"Colgate-Palmolive Co",73059.37
+XNYS,BHE,"Benchmark Electronics Inc",1350.70
+XNYS,CLX,"Clorox Co",15690.08
+XNYS,CLW,"Clearwater Paper Corp",477.92
+XNYS,CMA,"Comerica Inc",7554.92
+XNGS,CYTK,"Cytokinetics Inc",3831.23
+XNYS,IIPR,"Innovative Industrial Properties Inc",1534.46
+XNYS,CMG,"Chipotle Mexican Grill Inc",70871.35
+XNYS,AMRC,"Ameresco Inc",513.86
+XNYS,CMP,"Compass Minerals International Inc",838.80
+XNGS,DAKT,"Daktronics Inc",676.05
+XNYS,KMI,"Kinder Morgan Inc",62751.22
+XNYS,AVNT,"Avient Corp",3325.38
+XNYS,CIM,"Chimera Investment Corp",1097.15
+XNYS,IRM,"Iron Mountain Inc",29882.05
+XNGS,DCOM,"Dime Community Bancshares Inc",1131.40
+XNYS,CNO,"CNO Financial Group Inc",3753.49
+XNYS,CE,"Celanese Corp",5964.89
+XNYS,BOX,"Box Inc",5492.72
+XNYS,MTB,"M&T Bank Corp",28878.44
+XNYS,CF,"CF Industries Holdings Inc",15644.86
+XNGS,DGII,"Digi International Inc",1238.40
+XNYS,FDX,"FedEx Corp",51928.27
+XNYS,MPC,"Marathon Petroleum Corp",48604.30
+XNGS,PI,"Impinj Inc",3351.61
+XNGS,DIOD,"Diodes Inc",2202.67
+XNYS,GEO,"Geo Group Inc",3703.18
+XNYS,CMC,"Commercial Metals Co",5529.12
+XNYS,GES,"Guess? Inc",571.60
+XNYS,STR,"Sitio Royalties Corp",1506.94
+XNYS,IPG,"Interpublic Group of Companies Inc",8378.19
+XNYS,ORCL,"Oracle Corp",478671.05
+XNYS,PFS,"Provident Financial Services Inc",2153.26
+XNGS,DLTR,"Dollar Tree Inc",20174.62
+XNYS,CMI,"Cummins Inc",44511.36
+XNCM,SMLR,"Semler Scientific Inc",363.99
+XNGS,DMRC,"Digimarc Corp",297.63
+XNYS,PSX,"Phillips 66",45726.68
+XNMS,ARCT,"Arcturus Therapeutics Holdings Inc",323.01
+XNGS,DORM,"Dorman Products Inc",3875.22
+XNGS,ACLX,"Arcellx Inc",3650.82
+XNYS,RVLV,"Revolve Group Inc",911.62
+XNYS,XYL,"Xylem Inc",30822.84
+XNYS,MAS,"Masco Corp",13356.85
+XNYS,ZTS,"Zoetis Inc",75066.53
+XNGS,DXCM,"Dexcom Inc",33619.30
+XNYS,BWA,"Borgwarner Inc",7066.20
+XNYS,INST,"Instructure Holdings Inc",3471.31
+XNYS,ARR,"ARMOUR Residential REIT Inc",1351.32
+XNYS,GNRC,"Generac Holdings Inc",7463.78
+XNGS,ECPG,"Encore Capital Group Inc",869.76
+XNYS,LMND,"Lemonade Inc",2620.00
+XNCM,EGBN,"Eagle Bancorp Inc",510.34
+XNYS,CAG,"Conagra Brands Inc",10626.09
+XNGS,ODP,"ODP Corp",541.48
+XNYS,DRI,"Darden Restaurants Inc",25167.66
+XNYS,DTE,"DTE Energy Co",27537.61
+XNYS,LLY,"Eli Lilly and Co",725662.23
+XNYS,TWO,"Two Harbors Investment Corp",1106.83
+XNGS,ENSG,"Ensign Group Inc",8721.02
+XNYS,BMI,"Badger Meter Inc",7309.43
+XNYS,MRK,"Merck & Co Inc",194906.25
+XNYS,EQR,"Equity Residential",26010.94
+XNGS,EQIX,"Equinix Inc",88989.85
+XNYS,VVX,"V2X Inc",1409.64
+XNYS,MRO,"Marathon Oil Corp",15959.98
+XNGS,ARQT,"Arcutis Biotherapeutics Inc",1610.42
+XNGS,ERII,"Energy Recovery Inc",679.06
+XNGS,NUVL,"Nuvalent Inc",5183.11
+XNYS,CMS,"CMS Energy Corp",20741.24
+XNMS,RXST,"Rxsight Inc",606.30
+XNGS,CHRD,"Chord Energy Corp",5313.44
+XNGS,BASE,"Couchbase Inc",1052.48
+XNYS,NSC,"Norfolk Southern Corp",55666.51
+XNYS,HRL,"Hormel Foods Corp",16887.26
+XNYS,MSCI,"MSCI Inc",43642.94
+XNGS,EXLS,"Exlservice Holdings Inc",7653.14
+XNGS,EXPE,"Expedia Group Inc",21082.56
+XNYS,CNNE,"Cannae Holdings Inc",1207.36
+XNYS,AWR,"American States Water Co",2969.80
+XNGS,EXTR,"Extreme Networks Inc",2178.62
+XNGS,EXPO,"Exponent Inc",3915.98
+XNYS,EFX,"Equifax Inc",33061.78
+XNYS,IEX,"IDEX Corp",13619.18
+XNGS,FARO,"FARO Technologies Inc",815.58
+XNGS,FAST,"Fastenal Co",23713.48
+XNYS,ADM,"Archer-Daniels-Midland Co",22571.54
+XNGS,ADEA,"Adeia Inc",1443.05
+XNGS,LIVN,"LivaNova PLC",2445.48
+XNYS,KMB,"Kimberly-Clark Corp",47728.42
+XNYS,BMY,"Bristol-Myers Squibb Co",97358.27
+XNYS,AMP,"Ameriprise Financial Inc",48410.25
+XNYS,LHX,"L3Harris Technologies Inc",45252.06
+XNGS,FCFS,"Firstcash Holdings Inc",5504.31
+XNYS,PGR,"Progressive Corp",164259.86
+XNYS,CNC,"Centene Corp",27288.55
+XNYS,BOH,"Bank of Hawaii Corp",2618.52
+XNMS,HRMY,"Harmony Biosciences Holdings Inc",2011.57
+XNGS,FELE,"Franklin Electric Co Inc",3907.11
+XNYS,MSI,"Motorola Solutions Inc",69457.00
+XNMS,KYMR,"Kymera Therapeutics Inc",3103.60
+XNGS,ZYME,"Zymeworks Inc",843.97
+XNGS,FFBC,"First Financial Bancorp",2240.23
+XNCM,OSW,"Onespaworld Holdings Ltd",1956.38
+XNYS,JNPR,"Juniper Networks Inc",11974.24
+XNGS,SGRY,"Surgery Partners Inc",2969.47
+XNYS,HTH,"Hilltop Holdings Inc",1878.46
+XNGS,FFIC,"Flushing Financial Corp",397.56
+XNGS,FFIV,"F5 Inc",16882.58
+XNGS,FFIN,"First Financial Bankshares Inc",5089.73
+XNGS,FIBK,"First Interstate Bancsystem Inc",2852.93
+XNYS,GIS,"General Mills Inc",30069.66
+XNYS,AMT,"American Tower Corp",101220.85
+XNGS,FITB,"Fifth Third Bancorp",25564.95
+XNYS,PVH,"PVH Corp",3187.25
+XNYS,SPXC,"SPX Technologies Inc",7297.41
+XNGS,FORM,"FormFactor Inc",2481.10
+XNYS,DOW,"Dow Inc",19919.36
+XNGS,SNEX,"StoneX Group Inc",4084.54
+XNGS,FRME,"First Merchants Corp",2131.12
+XNYS,CEIX,"Core Natural Resources Inc",2925.93
+XNYS,GPOR,"Gulfport Energy Corp",3349.73
+XNGS,FTNT,"Fortinet Inc",79220.60
+XNGS,FULT,"Fulton Financial Corp",3092.32
+XNYS,SQSP,"Squarespace Inc",4243.72
+XNGS,OPCH,"Option Care Health Inc",5267.75
+XNGS,FWRD,"Forward Air Corp",565.87
+XNGS,INVA,"Innoviva Inc",1328.95
+XNGS,ASTS,"AST SpaceMobile Inc",7356.17
+XNYS,RNST,"Renasant Corp",3292.11
+XNGS,PEP,"PepsiCo Inc",179762.24
+XNYS,PWSC,"PowerSchool Holdings Inc",4663.47
+XNGS,GIII,"G-III Apparel Group Ltd",1214.25
+XNGS,ALHC,"Alignment Healthcare Inc",2926.10
+XNYS,VZIO,"Vizio Holding Corp",1446.60
+XNGS,GLDD,"Great Lakes Dredge & Dock Corp",782.51
+XNGS,GLNG,"Golar LNG Ltd",4371.64
+XNCM,THRY,"Thryv Holdings Inc",589.15
+XNGS,NWE,"NorthWestern Energy Group Inc",3226.11
+XNGS,AVO,"Mission Produce Inc",746.25
+XNGS,AEP,"American Electric Power Company Inc",54365.03
+XNGS,GOOD,"Gladstone Commercial Corp",666.01
+XNYS,DOLE,"Dole PLC",1308.15
+XNGS,DUOL,"Duolingo Inc",20532.92
+XNYS,MLNK,"MeridianLink Inc",1301.43
+XASE,GSAT,"Globalstar Inc",44182.24
+XNGS,PGNY,"Progyny Inc",1830.94
+XNGS,ASO,"Academy Sports and Outdoors Inc",2853.99
+XNGS,BEAM,"Beam Therapeutics Inc",1709.47
+XNGS,SDGR,"Schrodinger Inc",1530.83
+XNGS,PTVE,"Pactiv Evergreen Inc",3254.96
+XNGS,HA,"Hawaiian Holdings Inc",935.66
+XNGS,HALO,"Halozyme Therapeutics Inc",6598.48
+XNGS,HAS,"Hasbro Inc",9133.63
+XNGS,HBAN,"Huntington Bancshares Inc",22992.27
+XNGS,HAYN,"Haynes International Inc",779.89
+XNGS,HWC,"Hancock Whitney Corp",4559.64
+XNGS,HCKT,"Hackett Group Inc",678.94
+XNGS,HCSG,"Healthcare Services Group Inc",1031.80
+XNGS,HELE,"Helen of Troy Ltd",641.02
+XNGS,HEES,"H&E Equipment Services Inc",3470.13
+XNGS,HFWA,"Heritage Financial Corp",777.95
+XNGS,HIBB,"Hibbett Inc",1045.45
+XNYS,TPR,"Tapestry Inc",16453.21
+XNYS,LYV,"Live Nation Entertainment Inc",33382.09
+XNYS,ATO,"Atmos Energy Corp",24198.80
+XNYS,ARE,"Alexandria Real Estate Equities Inc",12031.38
+XNCM,HNRG,"Hallador Energy Co",722.43
+XNYS,BSX,"Boston Scientific Corp",152131.47
+XNYS,ATI,"ATI Inc",11674.75
+XNMS,APPF,"Appfolio Inc",4973.61
+XNGS,ALRM,"Alarm.com Holdings Inc",2873.10
+XNGS,HOLX,"Hologic Inc",14054.85
+XNYS,COF,"Capital One Financial Corp",73562.41
+XNYS,GKOS,"Glaukos Corp",5296.36
+XNGS,HSIC,"Henry Schein Inc",8577.58
+XNYS,GLW,"Corning Inc",43560.14
+XNGS,AMD,"Advanced Micro Devices Inc",187580.25
+XNGS,HSTM,"HealthStream Inc",863.87
+XNYS,AOS,"A O Smith Corp",7416.05
+XNYS,BRO,"Brown & Brown Inc",31535.43
+XNGS,HTLF,"Heartland Financial USA Inc",2779.84
+XNGS,HUBG,"Hub Group Inc",2025.15
+XNGS,HURN,"Huron Consulting Group Inc",2450.77
+XNYS,MTX,"Minerals Technologies Inc",1833.80
+XNYS,MTW,"Manitowoc Company Inc",384.21
+XNYS,JOE,"St Joe Co",2638.05
+XNYS,AON,"Aon PLC",80003.58
+XNYS,FLR,"Fluor Corp",7072.35
+XNYS,HUM,"Humana Inc",27416.73
+XNYS,BIO,"Bio Rad Laboratories Inc",4856.05
+XNGS,IDCC,"InterDigital Inc",5874.93
+XNYS,CLB,"Core Laboratories Inc",514.31
+XNGS,IDXX,"IDEXX Laboratories Inc",41997.13
+XNYS,AKR,"Acadia Realty Trust",2507.90
+XNYS,DLX,"Deluxe Corp",650.07
+XNYS,NOC,"Northrop Grumman Corp",70254.23
+XNYS,ENV,"Envestnet Inc",3493.99
+XNGS,INMD,"Inmode Ltd",906.42
+XNGS,ILMN,"Illumina Inc",13020.18
+XNYS,DIN,"Dine Brands Global Inc",375.02
+XNYS,TGNA,"Tegna Inc",2592.34
+XNYS,ZBH,"Zimmer Biomet Holdings Inc",18186.18
+XNGS,INCY,"Incyte Corp",13015.64
+XNYS,MMS,"Maximus Inc",3948.97
+XNGS,INDB,"Independent Bank Corp (Massachusetts)",2640.22
+XNYS,DHR,"Danaher Corp",137515.91
+XNMS,INOD,"Innodata Inc",1448.86
+XNGS,INSM,"Insmed Inc",13248.79
+XNMS,PTGX,"Protagonist Therapeutics Inc",3335.87
+XNYS,INSW,"International Seaways Inc",1858.08
+XNYS,EPC,"Edgewell Personal Care Co",1258.04
+XNYS,PRU,"Prudential Financial Inc",36720.42
+XNGS,INTU,"Intuit Inc",213851.93
+XNYS,UE,"Urban Edge Properties",2321.34
+XNYS,MMC,"Marsh & McLennan Companies Inc",112765.68
+XNYS,HOMB,"Home BancShares Inc",5497.40
+XNYS,SPNT,"Siriuspoint Ltd",2245.50
+XNGS,IPAR,"Interparfums Inc",4390.07
+XNYS,CNMD,"Conmed Corp",1751.82
+XNGS,IPGP,"IPG Photonics Corp",2911.07
+XNYS,WRK,"WestRock Co",13238.07
+XNYS,AIR,"AAR Corp",2393.32
+XNYS,KNF,"Knife River Corp",5225.05
+XNGS,MDGL,"Madrigal Pharmaceuticals Inc",6085.92
+XNGS,HLNE,"Hamilton Lane Inc",6232.27
+XNGS,DNLI,"Denali Therapeutics Inc",2065.83
+XNYS,FIS,"Fidelity National Information Services Inc",42315.32
+XNYS,JXN,"Jackson Financial Inc",5840.10
+XNYS,JNJ,"Johnson & Johnson",369717.22
+XNYS,HSY,"Hershey Co",24089.86
+XNYS,CNP,"CenterPoint Energy Inc",24039.99
+XNGS,ISRG,"Intuitive Surgical Inc",200018.89
+XNYS,LTC,"LTC Properties Inc",1600.22
+XNGS,KHC,"Kraft Heinz Co",31505.89
+XNGS,ITRI,"Itron Inc",5448.23
+XNYS,KGS,"Kodiak Gas Services Inc",3231.41
+XNYS,FIHL,"Fidelis Insurance Holdings Ltd",1949.05
+XNGS,JACK,"Jack in the Box Inc",367.21
+XNGS,RELY,"Remitly Global Inc",4256.57
+XNGS,JBHT,"J B Hunt Transport Services Inc",13799.95
+XNGS,JKHY,"Jack Henry & Associates Inc",13180.42
+XNGS,STER,"Sterling Check Corp",1641.32
+XNYS,APG,"APi Group Corp",13257.87
+XNYS,LOB,"Live Oak Bancshares Inc",1243.73
+XNGS,KELYA,"Kelly Services Inc",372.90
+XNGS,UPWK,"Upwork Inc",1985.69
+XNYS,COP,"ConocoPhillips",107896.51
+XNYS,IVT,"Inventrust Properties Corp",2142.42
+XNYS,EPAC,"Enerpac Tool Group Corp",2317.54
+XNGS,KLIC,"Kulicke and Soffa Industries Inc",1736.11
+XNGS,KLAC,"KLA Corp",104720.67
+XNGS,GH,"Guardant Health Inc",5997.42
+XNMS,KROS,"Keros Therapeutics Inc",613.70
+XNGS,FRSH,"Freshworks Inc",3770.65
+XNGS,KTOS,"Kratos Defense and Security Solutions Inc",6192.97
+XNYS,NTST,"Netstreit Corp",1322.00
+XNYS,CTO,"CTO Realty Growth Inc",603.36
+XNCM,NN,"NextNav Inc",1538.46
+XNYS,GTLS,"Chart Industries Inc",6680.79
+XNGS,RVMD,"Revolution Medicines Inc",7487.96
+XNMS,SITM,"SiTime Corp",4759.26
+XNYS,ABBV,"AbbVie Inc",331147.58
+XNYS,NWN,"Northwest Natural Holding Co",1604.73
+XNGS,LINC,"Lincoln Educational Services Corp",713.05
+XNYS,CARR,"Carrier Global Corp",61211.92
+XNMS,LMAT,"LeMaitre Vascular Inc",1884.37
+XNYS,RTX,"RTX Corp",185791.09
+XNYS,OTIS,"Otis Worldwide Corp",37604.79
+XNGS,XMTR,"Xometry Inc",1736.81
+XNCM,VRRM,"Verra Mobility Corp",3886.87
+XNYS,ARCH,"Arch Resources Inc",2441.19
+XNYS,PSN,"Parsons Corp",7276.05
+XNGS,LQDT,"Liquidity Services Inc",764.60
+XNGS,LRCX,"Lam Research Corp",108609.91
+XNGS,CFB,"CrossFirst Bankshares Inc",789.04
+XNGS,LULU,"Lululemon Athletica Inc",38051.13
+XNGS,BRZE,"Braze Inc",3199.01
+XNGS,MATW,"Matthews International Corp",687.15
+XNGS,MCBC,"Macatawa Bank Corp",507.86
+XNGS,MCHP,"Microchip Technology Inc",34721.14
+XNYS,PRG,"PROG Holdings Inc",1172.69
+XNGS,MELI,"MercadoLibre Inc",130887.44
+XNYS,PSTL,"Postal Realty Trust Inc",337.09
+XNYS,LTH,"Life Time Group Holdings Inc",6299.47
+XNYS,KTB,"Kontoor Brands Inc",3784.28
+XNGS,MGPI,"MGP Ingredients Inc",583.48
+XNYS,GL,"Globe Life Inc",9886.16
+XNGS,COCO,"Vita Coco Company Inc",1934.61
+XNGS,MKTX,"Marketaxess Holdings Inc",8480.25
+XNYS,TRNO,"Terreno Realty Corp",5985.56
+XNYS,TRV,"Travelers Companies Inc",61213.10
+XNYS,TSN,"Tyson Foods Inc",15811.09
+XNGS,MMSI,"Merit Medical Systems Inc",5626.87
+XNYS,VAL,"Valaris Ltd",2805.10
+XNGS,MNRO,"Monro Inc",474.71
+XNGS,GFS,"GlobalFoundries Inc",20739.76
+XNGS,MPWR,"Monolithic Power Systems Inc",32609.15
+XNGS,MRTN,"Marten Transport Ltd",1061.04
+XNGS,MSTR,"Microstrategy Inc",93585.28
+XNGS,MU,"Micron Technology Inc",118786.68
+XNGS,NMRK,"Newmark Group Inc",1822.06
+XNYS,PX,"P10 Inc",771.78
+XNGS,PTLO,"Portillos Inc",720.29
+XNYS,ONTO,"Onto Innovation Inc",4606.26
+XNCM,IMXI,"International Money Express Inc",340.74
+XNYS,ENFN,"Enfusion Inc",1398.46
+XNGS,NAVI,"Navient Corp",1371.60
+XNGS,NBTB,"NBT Bancorp Inc",1939.46
+XNGS,NDAQ,"Nasdaq Inc",48226.22
+XNGS,NDSN,"Nordson Corp",12067.49
+XNYS,TFC,"Truist Financial Corp",51897.03
+XNMS,NEWT,"NewtekOne Inc",278.44
+XNGS,NFBK,"Northfield Bancorp Inc",498.73
+XNGS,LASR,"nLIGHT Inc",881.01
+XNGS,GSHD,"Goosehead Insurance Inc",2787.19
+XNGS,SGH,"SMART Global Holdings Inc.",1102.74
+XNMS,APPN,"Appian Corp",1371.78
+XNGS,NSIT,"Insight Enterprises Inc",4221.87
+XNGS,NSSC,"NAPCO Security Technologies Inc",1022.63
+XNGS,NTCT,"Netscout Systems Inc",1656.25
+XNYS,BFH,"Bread Financial Holdings Inc",2300.46
+XNGS,NTGR,"NETGEAR Inc",868.06
+XNGS,NTRS,"Northern Trust Corp",20712.52
+XNGS,NVDA,"NVIDIA Corp",3415756.00
+XNGS,NWBI,"Northwest Bancshares Inc",1549.64
+XNGS,NWSA,"News Corp",10605.46
+XNGS,NXPI,"NXP Semiconductors NV",52268.88
+XNYS,J,"Jacobs Solutions Inc",15019.52
+XNGS,OCFC,"OceanFirst Financial Corp",980.84
+XNMS,PRCT,"Procept Biorobotics Corp",3599.13
+XNGS,NVEE,"NV5 Global Inc",1453.62
+XNGS,IDYA,"IDEAYA Biosciences Inc",1847.98
+XNGS,OFIX,"Orthofix Medical Inc",419.63
+XNGS,ODFL,"Old Dominion Freight Line Inc",33744.44
+XNGS,OMCL,"Omnicell Inc",1446.06
+XNYS,HLIO,"Helios Technologies Inc",1065.28
+XNGS,MLKN,"MillerKnoll Inc",1159.82
+XNGS,NARI,"Inari Medical Inc",4681.78
+XNGS,ORLY,"O'Reilly Automotive Inc",78178.13
+XNGS,OSBC,"Old Second Bancorp Inc",736.22
+XNGS,ZM,"Zoom Communications Inc",21168.58
+XNGS,FLYW,"Flywire Corp",1218.39
+XNYS,SG,"Sweetgreen Inc",1470.15
+XNYS,ANET,"Arista Networks Inc",119538.60
+XNGS,PATK,"Patrick Industries Inc",3028.18
+XNGS,PAYX,"Paychex Inc",57381.98
+XNYS,FLNG,"FLEX LNG Ltd",1348.83
+XNGS,PCAR,"Paccar Inc",48532.50
+XNGS,PCH,"Potlatchdeltic Corp",3062.89
+XNGS,OM,"Outset Medical Inc",355.51
+XNGS,PDCO,"Patterson Companies Inc",2772.77
+XNGS,PDFS,"PDF Solutions Inc",746.38
+XNGS,STEP,"StepStone Group Inc",4359.28
+XNGS,PENN,"PENN Entertainment Inc",2367.71
+XNYS,SHAK,"Shake Shack Inc",5162.88
+XNYS,DEA,"Easterly Government Properties Inc",983.42
+XNMS,SIBN,"SI-BONE Inc",812.23
+XNCM,SPT,"Sprout Social Inc",1134.23
+XNGS,DYN,"Dyne Therapeutics Inc",1590.20
+XNYS,SWI,"SolarWinds Corp",3201.21
+XNGS,PLAB,"Photronics Inc",1126.95
+XNYS,FG,"F&G Annuities & Life Inc",4441.77
+XNGS,DRS,"Leonardo DRS Inc",11812.58
+XNGS,ROAD,"Construction Partners Inc",5107.48
+XNYS,VTOL,"Bristow Group Inc",853.19
+XNYS,BOWL,"Bowlero Corp",1033.33
+XNYS,XHR,"Xenia Hotels & Resorts Inc",1181.48
+XNYS,APAM,"Artisan Partners Asset Management Inc",2836.12
+XNGS,POOL,"Pool Corp",11596.24
+XNGS,JAMF,"Jamf Holding Corp",1389.85
+XNGS,POWI,"Power Integrations Inc",3026.17
+XNYS,ATEN,"A10 Networks Inc",1282.32
+XNGS,POWL,"Powell Industries Inc",2203.66
+XNGS,PPBI,"Pacific Premier Bancorp Inc",2007.17
+XNGS,IRTC,"iRhythm Technologies Inc",4636.51
+XNGS,PRAA,"PRA Group Inc",562.76
+XNGS,PRFT,"Perficient Inc",2670.85
+XNGS,PRGS,"Progress Software Corp",2736.02
+XNMS,APGE,"Apogee Therapeutics Inc",1733.69
+XNGS,PCVX,"Vaxcyte Inc",4489.34
+XNYS,BXMT,"Blackstone Mortgage Trust Inc",3229.14
+XNYS,WKC,"World Kinect Corp",1557.82
+XNGS,SKWD,"Skyward Specialty Insurance Group Inc",2543.36
+XNYS,VSTO,"Vista Outdoor Inc",2608.21
+XNGS,CCSI,"Consensus Cloud Solutions Inc",436.94
+XNYS,CPS,"Cooper-Standard Holdings Inc",370.44
+XNGS,PZZA,"Papa John's International Inc",1555.40
+XNGS,ZD,"Ziff Davis Inc",1380.89
+XNYS,CSTM,"Constellium SE",1833.64
+XNYS,DNOW,"DNOW Inc",1527.57
+XNGS,QNST,"QuinStreet Inc",880.91
+XNYS,EPAM,"Epam Systems Inc",9889.86
+XNYS,WMT,"Walmart Inc",783766.88
+XNYS,ESNT,"Essent Group Ltd",5790.03
+XNYS,AXP,"American Express Co",207346.28
+XNYS,DIS,"Walt Disney Co",202300.39
+XNYS,EVTC,"Evertec Inc",2310.46
+XNYS,MMM,"3M Co",78714.41
+XNYS,SCHW,"Charles Schwab Corp",158512.50
+XNMS,RDNT,"RadNet Inc",4357.00
+XNGS,REGN,"Regeneron Pharmaceuticals Inc",51277.08
+XNYS,UNP,"Union Pacific Corp",131832.99
+XNYS,UNH,"UnitedHealth Group Inc",268368.43
+XNGS,TFIN,"Triumph Financial Inc",1334.69
+XNYS,VZ,"Verizon Communications Inc",182563.84
+XNMS,KALV,"Kalvista Pharmaceuticals Inc",686.08
+XNGS,RIGL,"Rigel Pharmaceuticals Inc",374.78
+XNYS,HPE,"Hewlett Packard Enterprise Co",23304.95
+XNGS,TXN,"Texas Instruments Inc",173054.85
+XNYS,HASI,"HA Sustainable Infrastructure Capital Inc",3009.99
+XNGS,RMBS,"Rambus Inc",6075.22
+XNYS,IMAX,"Imax Corp",1476.29
+XNMS,BLBD,"Blue Bird Corp",1272.09
+XNGS,ROCK,"Gibraltar Industries Inc",1745.24
+XNGS,ROIC,"Retail Opportunity Investments Corp",2255.50
+XNGS,ROST,"Ross Stores Inc",46771.57
+XNYS,KN,"Knowles Corp",1448.13
+XNMS,SMMT,"Summit Therapeutics Inc",14652.80
+XNMS,AXSM,"Axsome Therapeutics Inc",5448.50
+XNYS,LDOS,"Leidos Holdings Inc",18711.86
+XNYS,AROC,"Archrock Inc",4535.16
+XNYS,LADR,"Ladder Capital Corp",1347.57
+XNYS,LPG,"Dorian LPG Ltd",953.27
+XNGS,ACVA,"ACV Auctions Inc",2084.72
+XNGS,SANM,"Sanmina Corp",4599.49
+XNGS,SASR,"Sandy Spring Bancorp Inc",1263.03
+XNGS,SATS,"EchoStar Corp",2969.25
+XNGS,SBAC,"SBA Communications Corp",24676.30
+XNYS,DOCN,"DigitalOcean Holdings Inc",2528.00
+XNGS,SBCF,"Seacoast Banking Corporation of Florida",2190.05
+XNGS,SBGI,"Sinclair Inc",587.57
+XNYS,MATX,"Matson Inc",3659.16
+XNGS,SBRA,"Sabra Health Care REIT Inc",4228.13
+XNYS,MC,"Moelis & Co",4251.45
+XNGS,SCHL,"Scholastic Corp",497.73
+XNGS,SCSC,"Scansource Inc",936.14
+XNGS,SCVL,"Shoe Carnival Inc",529.68
+XNYS,MODN,"Model N Inc",1182.30
+XNGS,HON,"Honeywell International Inc",145676.93
+XNYS,MTDR,"Matador Resources Co",5605.33
+XNGS,SFNC,"Simmons First National Corp",2340.20
+XNYS,MTRN,"Materion Corp",1657.86
+XNGS,SHEN,"Shenandoah Telecommunications Co",725.76
+XNGS,SNCY,"Sun Country Airlines Holdings Inc",608.70
+XNGS,SHOO,"Steven Madden Ltd",1791.73
+XNYS,NBHC,"National Bank Holdings Corp",1383.97
+XNYS,NGVC,"Natural Grocers by Vitamin Cottage Inc",1018.61
+XNYS,FCPT,"Four Corners Property Trust Inc",2729.82
+XNGS,SIGI,"Selective Insurance Group Inc",5310.47
+XNYS,NOW,"ServiceNow Inc",210625.79
+XNGS,MTCH,"Match Group Inc",7724.60
+XNGS,SIRI,"Sirius XM Holdings Inc",7299.17
+XNGS,SKYW,"SkyWest Inc",4080.72
+XNYS,NSP,"Insperity Inc",2393.80
+XNGS,SLAB,"Silicon Laboratories Inc",4037.28
+XNGS,EMBC,"Embecta Corp",583.26
+XNYS,HWM,"Howmet Aerospace Inc",70647.00
+XNGS,SRRK,"Scholar Rock Holding Corp",3251.89
+XNYS,OGS,"ONE Gas Inc",4399.51
+XNGS,SMTC,"Semtech Corp",3255.77
+XNGS,KNSA,"Kiniksa Pharmaceuticals International PLC",1045.29
+XNGS,SNPS,"Synopsys Inc",74818.60
+XNCM,LSEA,"Landsea Homes Corp",425.95
+XNYS,SDRL,"Seadrill Ltd",1524.52
+XNYS,PAYC,"Paycom Software Inc",15268.96
+XNYS,PBF,"PBF Energy Inc",2094.37
+XNYS,PFSI,"PennyMac Financial Services Inc",4907.52
+XNGS,SPSC,"SPS Commerce Inc",5403.04
+XNGS,SPTN,"SpartanNash Co",623.18
+XNYS,LBRT,"Liberty Energy Inc",1930.49
+XNCM,CDMO,"Avid Bioservices Inc",799.54
+XNGS,KDP,"Keurig Dr Pepper Inc",44222.79
+XNYS,CTVA,"Corteva Inc",48570.50
+XNGS,PRVA,"Privia Health Group Inc",2779.76
+XNMS,STAA,"STAAR Surgical Co",861.75
+XNYS,PARR,"Par Pacific Holdings Inc",1105.33
+XNYS,SUM,"Summit Materials Inc",9219.69
+XNYS,RHP,"Ryman Hospitality Properties Inc",5756.48
+XNGS,STRL,"Sterling Infrastructure Inc",5937.70
+XNGS,BATRK,"Atlanta Braves Holdings Inc",2065.22
+XNGS,STX,"Seagate Technology Holdings PLC",27100.17
+XNMS,CSTL,"Castle Biosciences Inc",491.41
+XNGS,SWKS,"Skyworks Solutions Inc",10626.89
+XNGS,RDUS,"Radius Recycling Inc",828.29
+XNGS,SYNA,"Synaptics Inc",2382.49
+XNYS,SLCA,"US Silica Holdings Inc",1212.56
+XNYS,WLY,"John Wiley & Sons Inc",1710.87
+XNGS,TBBK,"Bancorp Inc",2353.24
+XNYS,SSTK,"Shutterstock Inc",629.63
+XNGS,TCBI,"Texas Capital Bancshares Inc",3322.03
+XNGS,TECH,"Bio-Techne Corp",7573.43
+XNCM,COOP,"Mr Cooper Group Inc",8449.91
+XNGS,PLTR,"Palantir Technologies Inc",271345.09
+XNGS,AXON,"Axon Enterprise Inc",61374.47
+XNYS,JOE,"St Joe Co",2638.05
+XNCM,RIOT,"Riot Platforms Inc",3211.80
+XNCM,CLSK,"CleanSpark Inc",2534.11
